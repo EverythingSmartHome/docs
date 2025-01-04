@@ -1,0 +1,7 @@
+site_name: "Everything Presence Documentation"
+theme: 
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - toc.follow
